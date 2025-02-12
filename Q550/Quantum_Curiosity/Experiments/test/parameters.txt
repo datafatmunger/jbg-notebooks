@@ -1,0 +1,7 @@
+experiment: test
+number of experiments: 1
+file: adult
+learner model: DT
+episode size: 100
+internal trashold: 0
+external trashold: 0
