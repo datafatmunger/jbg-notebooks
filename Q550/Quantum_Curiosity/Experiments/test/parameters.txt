@@ -2,6 +2,6 @@ experiment: test
 number of experiments: 1
 file: adult
 learner model: VQC
-episode size: 100
+episode size: 10
 internal trashold: 0
 external trashold: 0
