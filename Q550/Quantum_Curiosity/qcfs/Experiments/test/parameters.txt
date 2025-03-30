@@ -1,0 +1,6 @@
+experiment: test
+number of experiments: 1
+file: adult
+episode size: 10
+internal trashold: 0
+external trashold: 0

@@ -1,0 +1,17 @@
+README.md
+setup.py
+src/qcfs/__init__.py
+src/qcfs/device.py
+src/qcfs/enums.py
+src/qcfs/main.py
+src/qcfs.egg-info/PKG-INFO
+src/qcfs.egg-info/SOURCES.txt
+src/qcfs.egg-info/dependency_links.txt
+src/qcfs.egg-info/top_level.txt
+src/qcfs/fs/__init__.py
+src/qcfs/fs/qfs.py
+src/qcfs/learners/__init__.py
+src/qcfs/learners/vqc.py
+test/test_main.py
+test/test_qfs.py
+test/test_vqc.py
