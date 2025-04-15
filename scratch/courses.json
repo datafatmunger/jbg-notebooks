@@ -1,0 +1,2365 @@
+{
+	"count": 6354,
+	"courses": [
+		{
+			"car": "UGRD",
+			"catalogNumber": "100",
+			"classNumbers": [
+				"3361",
+				"7878"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Emphasis on ethnic and jazz traditions although other genres are regularly preformed. Repertoire varies from semester to semester. Participation in on and off-campus concerts, workshops, and lecture demonstrations required.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "000418",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1470024000000,
+			"inst": "IUBLA",
+			"maxCredits": 2,
+			"minCredits": 2,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "AFRICAN AMERICAN DANCE COMPANY: FOUNDATIONS AND PRACTICES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "110",
+			"classNumbers": [
+				"3362",
+				"3217"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "The ensemble performs music composed by, for and about blacks, including spirituals, gospel, art songs, and excerpts from operas and musicals.  Repertoire varies from semester to semester. Participation in on- and off-campus concerts, workshops, and lecture demonstrations required. No audition required.  Students meet the first day of class prepared to sing.  Vocal evaluations and part assignments will be done during class.  Ability to read music is desirable but not essential.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "000423",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1470024000000,
+			"inst": "IUBLA",
+			"maxCredits": 2,
+			"minCredits": 2,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "AFRICAN AMERICAN CHORAL ENSEMBLE: FOUNDATIONS AND PRACTICES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "112",
+			"classNumbers": [
+				"30198"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) Culture Studies: Global Civ & Culture",
+					"COLL (CASE) A&H Breadth of Inquiry credit"
+				],
+				"description": "An exploration of the relationships among musics of West and Central African people and their descendents in the United States, Latin America, and the Caribbean. Emphasis placed on the conceptual and aesthetic continuities between musical expression in Old and New World contexts-a uniformity which exists because of shared African cultural ancestry.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000425",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1470024000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "BLACK MUSIC OF TWO WORLDS"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "113",
+			"classNumbers": [
+				"6577",
+				"7184"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Examines the impact of African American history and culture on the nation as a whole and on the international community.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "091343",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1682913600000,
+			"inst": "IUBLA",
+			"maxCredits": 1,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "ATKINS LIVING-LEARNING CENTER FOUNDATIONAL COURSE"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "120",
+			"classNumbers": [
+				"3363",
+				"3218"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Introduces the richness and depth of black popular tradition through authentic performance practices. Repertoire varies from semester to semester. Participation in on- and off-campus concerts, workshops, and lecture demonstrations required. Ability to read music desirable but not essential.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "000426",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1470024000000,
+			"inst": "IUBLA",
+			"maxCredits": 2,
+			"minCredits": 2,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "SOUL REVUE: FOUNDATIONS AND PRACTICES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "150",
+			"classNumbers": [
+				"12716",
+				"12717",
+				"5330",
+				"13589",
+				"13590"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) Culture Studies: Diversity in U.S.",
+					"COLL (CASE) A&H Breadth of Inquiry credit",
+					"IUB GenEd A&H credit"
+				],
+				"description": "Explores the culture of Blacks in America viewed from a broad interdisciplinary approach, employing resources from history, literature, folklore, religion, sociology, and political science.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "091574",
+			"courseOfferNumber": 2,
+			"courseTopicId": 0,
+			"effdt": 1704085200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "SURVEY OF THE CULTURE OF BLACK AMERICANS"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "156",
+			"classNumbers": [
+				"8494"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit",
+					"COLL (CASE) Culture Studies: Global Civ & Culture",
+					"IUB GenEd S&H credit",
+					"IUB GenEd World Culture credit"
+				],
+				"description": "A comparative perspective on American race-relations, specifically the similarities and differences in the struggles against Jim Crow in America and against apartheid in South Africa. In both places, the late twentieth century witnessed a revolt against the legal and philosophical framework of white supremacy.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "080519",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1122868800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "BLACK LIBERATION STRUGGLES AGAINST JIM CROW AND APARTHEID"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "205",
+			"classNumbers": [
+				"30199"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit"
+				],
+				"description": "The course will explore black participation in the formal structures of American government and in the processes by which these structures are accessed. Black participation in local, state and federal government arenas will be focused upon and the political benefits to the black community of these involvements will be assessed.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000440",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "BLACK ELECTORAL POLITICS"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "210",
+			"classNumbers": [
+				"13592"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit",
+					"IUB GenEd S&H credit",
+					"COLL (CASE) Culture Studies: Diversity in U.S."
+				],
+				"description": "Interdisciplinary examination of salient aspects of black women's history, identity, and experience, including policies, cultural assumptions, and knowledge systems that affect black women's lives. While the primary focus will be North America, the lives of black women in other cultural settings within the African Diaspora will also be examined.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "000442",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1672549200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "BLACK WOMEN IN THE DIASPORA"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "221",
+			"classNumbers": [
+				"30202"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) Culture Studies: Global Civ & Culture",
+					"IUB GenEd World Culture credit"
+				],
+				"description": "Introduction to the history, culture, music, and body movements of dances in the African American and African Diaspora tradition with a focus on African-derived dances, primarily from Cuba, Puerto Rico, and America. Instruction through classroom lectures, discussions, videos, readings, and movement sessions.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "081406",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1154404800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "DANCE IN THE AFRICAN DIASPORA"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "264",
+			"classNumbers": [
+				"3654"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit",
+					"IUB GenEd S&H credit",
+					"COLL (CASE) Culture Studies: Diversity in U.S."
+				],
+				"description": "Examination of the historical participation and contributions of African Americans in sport. Students study African American sports pioneers and the social conditions affecting their participation. Period studied includes pre-slavery to the civil rights era (1500s to 1960s).",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "081407",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1154404800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "HISTORY OF SPORT & THE AFRICAN AMERICAN EXPERIENCE"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "295",
+			"classNumbers": [
+				"4894",
+				"5403"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) Culture Studies: Diversity in U.S.",
+					"COLL (CASE) A&H Breadth of Inquiry credit",
+					"IUB GenEd A&H credit"
+				],
+				"description": "Examines rap music and hip hop culture as artistic and socio-cultural phenomena with emphasis on historical, cultural, economic, and political contexts. Topics include the coexistence of various hip hop styles, their appropriation by the music industry, and controversies resulting from the exploitation of hip hop as a commodity for national and global consumption.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "083127",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1249099200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "SURVEY OF HIP HOP"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "337",
+			"classNumbers": [
+				"6578",
+				"7185"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Focuses on music industry concerns related to the ensemble's live presentations of Black popular music. Explores how Black popular music is manifested within the broader context of the music industry. Readings explore music industry structures and practices (copyright law, publishing, creative production, etc.) that directly impact African American artists' creative output and livelihood.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "091344",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1577854800000,
+			"inst": "IUBLA",
+			"maxCredits": 2,
+			"minCredits": 2,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "SOUL REVUE: ADVANCED STUDIES AND PRACTICES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "338",
+			"classNumbers": [
+				"6579",
+				"7879"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Students learn dance technique and experience performance from the perspective of the African American and African diaspora. Students perform in choreographic works created by the director and in works produced from student collaborative projects.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "091345",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1577854800000,
+			"inst": "IUBLA",
+			"maxCredits": 2,
+			"minCredits": 2,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "AFRICAN AMERICAN DANCE COMPANY: ADVANCED STUDIES AND PRACTICES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "339",
+			"classNumbers": [
+				"6580",
+				"7186"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Continues choral ensemble participation and the goals of A110. Through meetings with the instructor, students may complete a research project, and develop advanced-level choral leadership skills in vocal techniques, advanced sight reading, and intermediate piano skills. Students will organize and perform in small ensembles to demonstrate their abilities to perform Black choral music.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "091346",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1577854800000,
+			"inst": "IUBLA",
+			"maxCredits": 2,
+			"minCredits": 2,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "AFRICAN AMERICAN CHORAL ENSEMBLE: ADVANCED STUDIES AND PRACTICES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "355",
+			"classNumbers": [
+				"13068"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit",
+					"COLL (CASE) Culture Studies: Diversity in U.S."
+				],
+				"description": null,
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000477",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1735707600000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "AFRICAN-AMERICAN HISTORY I"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "379",
+			"classNumbers": [
+				"34487"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) Culture Studies: Diversity in U.S.",
+					"COLL (CASE) A&H Breadth of Inquiry credit"
+				],
+				"description": null,
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000488",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1735707600000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "EARLY BLACK AMERICAN WRITING"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "386",
+			"classNumbers": [
+				"30212"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit",
+					"COLL (CASE) Culture Studies: Diversity in U.S."
+				],
+				"description": "Examination of the history, development, and manifestation of feminist consciousness among African American women. The course is particularly concerned with how black women's lived experience defines that consciousness, and the differing impact it has among various groups of black women, and in their larger social, political, cultural communities.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000494",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1533096000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "BLACK FEMINIST PERSPECTIVES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "387",
+			"classNumbers": [
+				"6894"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit",
+					"COLL (CASE) Culture Studies: Global Civ & Culture"
+				],
+				"description": "Explores the process, patterns, and paradoxes of the incorporation of individuals and groups identified and/or perceived as \"immigrants\" from a comparative-interdisciplinary perspective. Focuses on persons from \"sending\" countries in Africa, the Caribbean, and Asia to the United States, and also examines developments in other labor-importing, post-industrial countries such as France and England in relation to the people who settle there.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000495",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1122868800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "BLACK MIGRATION"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "398",
+			"classNumbers": [
+				"30208",
+				"14354",
+				"30410"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit"
+				],
+				"description": "Advanced study with analysis of selected issues and problems within the African American and African Diaspora experience utilizing interdisciplinary interpretation through analytical reasoning and philosophical discussions.  Varied topics primarily in the areas of history, politics, sociology, anthropology, and economics.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "082720",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1185940800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "ADVANCED TOPICS IN SOCIAL AND HISTORICAL STUDIES FOR AAADS"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "398",
+			"classNumbers": [
+				"30410"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit"
+				],
+				"description": "Advanced study with analysis of selected issues and problems within the African American and African Diaspora experience utilizing interdisciplinary interpretation through analytical reasoning and philosophical discussions.  Varied topics primarily in the areas of history, politics, sociology, anthropology, and economics.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "082720",
+			"courseOfferNumber": 1,
+			"courseTopicId": 18,
+			"effdt": 1185940800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "AFRI-AMERICAN ENGAGEMENT W RUSSIA AND CENTRAL ASIA (ADVANCED TOPICS IN SOCIAL AND HISTORICAL STUDIES FOR AAADS)"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "398",
+			"classNumbers": [
+				"14354"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit"
+				],
+				"description": "Advanced study with analysis of selected issues and problems within the African American and African Diaspora experience utilizing interdisciplinary interpretation through analytical reasoning and philosophical discussions.  Varied topics primarily in the areas of history, politics, sociology, anthropology, and economics.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "082720",
+			"courseOfferNumber": 1,
+			"courseTopicId": 19,
+			"effdt": 1185940800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "BLACK FOODWAYS (ADVANCED TOPICS IN SOCIAL AND HISTORICAL STUDIES FOR AAADS)"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "398",
+			"classNumbers": [
+				"30208"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit"
+				],
+				"description": "Advanced study with analysis of selected issues and problems within the African American and African Diaspora experience utilizing interdisciplinary interpretation through analytical reasoning and philosophical discussions.  Varied topics primarily in the areas of history, politics, sociology, anthropology, and economics.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "082720",
+			"courseOfferNumber": 1,
+			"courseTopicId": 20,
+			"effdt": 1185940800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "THE SOUL ERA (ADVANCED TOPICS IN SOCIAL AND HISTORICAL STUDIES FOR AAADS)"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "420",
+			"classNumbers": [
+				"30210"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit"
+				],
+				"description": "Investigation of divided societies and of strategies for transforming such communities. Students will consider societies (both past and present) divided by race, ethnicity, gender, class, caste, tribe, or religion, and will study responses such as civil rights, affirmative action, reparation policies, and reconciliation tribunals.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "080619",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1122868800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "TRANSFORMING DIVIDED COMMUNITIES AND SOCIETIES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "427",
+			"classNumbers": [
+				"13595"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "A survey study of national, cultural, and cross-cultural persuasion in theory and practice.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "090171",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1430452800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "CROSS-CULTURAL COMMUNICATION"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "479",
+			"classNumbers": [
+				"10786"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) A&H Breadth of Inquiry credit"
+				],
+				"description": null,
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000532",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "CONTEMPORARY BLACK POETRY"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "481",
+			"classNumbers": [
+				"30211"
+			],
+			"courseDetails": {
+				"attributes": [
+					"COLL (CASE) S&H Breadth of Inquiry credit"
+				],
+				"description": "Contemporary racial problems in American Society with regard to law and constitutional principles of basic freedoms and associated conflicts. Effects of societal norms and impact of racism.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000534",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "RACISM AND THE LAW"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "493",
+			"classNumbers": [
+				"3219"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Lecture/discussions on Afro-American studies as an interdisciplinary field of inquiry and scholarship. Students will develop individual or group projects that synthesize their experiences as majors by demonstrating the interrelatedness of the department's concentration areas.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000544",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1577854800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "SENIOR SEMINAR IN AFRICAN AMERICAN AND AFRICAN DIASPORA STUDIES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "499",
+			"classNumbers": [
+				"3366",
+				"2673",
+				"3220"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Development, completion, and defense of Honors thesis.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000551",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "HONORS THESIS"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "500",
+			"classNumbers": [
+				"30214"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Through an interdisciplinary approach, students are introduced to the major works concerning the historical, cultural, and intellectual experiences of Africans in the Diaspora, and the research, methodology, and theoretical questions raised therein in preparation for study in Afro-American studies.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000552",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "INTR AFRC AM&AFRC DIASP PART I"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "555",
+			"classNumbers": [
+				"30215"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Course will deal with aspects of Caribbean, African-American, and African leadership that influenced the struggles for decolonization and civil rights in the Caribbean, United States, and Africa. The course will also discuss how leaders of the three areas were much more interested in political freedom than economic emancipation.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000557",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "CARIB/AFRO-AMER/AFRI LEADRSHP"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "599",
+			"classNumbers": [
+				"4774",
+				"3518",
+				"5381"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Students who are have completed their MA coursework should take this course to work on their thesis research. These credits are intended to give the student credit for work done on the thesis.  ",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "086337",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1588305600000,
+			"inst": "IUBLA",
+			"maxCredits": 6,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "MA THESIS RESEARCH"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "620",
+			"classNumbers": [
+				"30216"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Investigation of divided societies and of strategies for transforming such communities. Students will consider societies (both past and present) divided by race, ethnicity, gender, class, caste, tribe, or religion, and will study responses such as civil rights, affirmative action, reparation policies, and reconciliation tribunals.",
+				"typicallyOffered": "Summer, Fall"
+			},
+			"courseId": "080732",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1122868800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "TRANSFORMING DIVIDED COMMUNITIES AND SOCIETIES"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "669",
+			"classNumbers": [
+				"3367",
+				"3719",
+				"1773",
+				"3221"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "This course is designed to meet individual interests of students by providing opportunities for research on a chosen topic and by encouraging non-traditional approaches or settings in the application of concepts developed in formal classes.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000576",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "INDEP PROJ BLACK SOCIAL ISSUES"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "679",
+			"classNumbers": [
+				"11158"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "An examination of Black poetry from Dunbar to the present, emphasizing the emergence, growth, and development of Black consciousness as a positive ethnic identification.",
+				"typicallyOffered": "Fall"
+			},
+			"courseId": "000578",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "CONTEMPORARY BLACK POETRY"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "686",
+			"classNumbers": [
+				"3878",
+				"4851",
+				"4852",
+				"3222"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Directed  readings, work experience, journal, oral presentation. Most research experiences will require research skills.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000580",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 4,
+			"minCredits": 4,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "GRAD INTERNSHIP AFRO-AMER STDS"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "689",
+			"classNumbers": [
+				"3368",
+				"1774",
+				"3223"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "This course is designed to meet individual interests of students by providing opportunities for research on a chosen topic and by encouraging non-traditional approaches or settings in the application of concepts developed in formal classes.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000581",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "INDEP. PROG. IN BLK LITERATURE"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "698",
+			"classNumbers": [
+				"3369",
+				"1775",
+				"3224"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "This course is for the development of the final master's project. A critical paper, a thesis-length documentation of a field study, or a substantial record of creative activity are required.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000583",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 4,
+			"minCredits": 4,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "FIELD STUDY SEMINAR"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "699",
+			"classNumbers": [
+				"3370",
+				"1776",
+				"13053",
+				"3225"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "This course is designed to meet individual interests of students by providing opportunities for research on a chosen topic and by encouraging non-traditional approaches or settings in the application of concepts developed in formal class settings.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000584",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "INDPT PROJECT IN BLACK MUS"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "799",
+			"classNumbers": [
+				"4667",
+				"2760",
+				"3566",
+				"5286"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "This course is designed to introduce students to different peoples, cultures, histories, literary works, political systems and others by having them spend time in Diasporic communities concerning peoples of African descent.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "086102",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1304222400000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 3,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "STUDY AND RESEARCH ABROAD IN AAADS"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "899",
+			"classNumbers": [
+				"4640",
+				"2749",
+				"5239"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Students who are candidates should take this course to work on their dissertation research.  These credits are intended to give the student credit for work done on the dissertation.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "085977",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1588305600000,
+			"inst": "IUBLA",
+			"maxCredits": 12,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-A",
+			"title": "AAADS PHD DISSERTATION RESEARCH"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "599",
+			"classNumbers": [
+				"4323",
+				"2676",
+				"4716"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Master's students who have enrolled in 30 or more hours of graduate course work applicable to the degree and who have completed all other requirements of the degree except the thesis of final project of performance may enroll in G599.  Requires section authorization.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "078520",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 0,
+			"minCredits": 0,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-G",
+			"title": "THESIS RESEARCH"
+		},
+		{
+			"car": "GRAD",
+			"catalogNumber": "901",
+			"classNumbers": [
+				"4641",
+				"5240"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Available to graduate students who have completed all course requirements for their doctorates, have passed doctoral qualifying examinations, and have the requisite number of degree credit hours, this course provides the advanced research student with a forum for sharing ideas and problems under the supervision of a senior researcher.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000585",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1114920000000,
+			"inst": "IUBLA",
+			"maxCredits": 6,
+			"minCredits": 6,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-G",
+			"title": "ADVANCED RESEARCH"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "373",
+			"classNumbers": [
+				"3365",
+				"1792",
+				"6052"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": "Directed readings, field research, research papers. Certain internship experiences may require research skills.",
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "000538",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1577854800000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-X",
+			"title": "INTERNSHIP IN AFRICAN AMERICAN AND AFRICAN DIASPORA STUDIES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "490",
+			"classNumbers": [
+				"6779",
+				"6581",
+				"6582",
+				"6583",
+				"6584",
+				"6585",
+				"6586",
+				"6587",
+				"6588",
+				"6589",
+				"3458",
+				"3459",
+				"3460",
+				"3461",
+				"3553",
+				"3576",
+				"3462",
+				"3464",
+				"3465",
+				"3466",
+				"3467",
+				"7504",
+				"7204",
+				"7205",
+				"7206",
+				"7207",
+				"7208",
+				"7209",
+				"7210",
+				"7211",
+				"7212"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": null,
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "091315",
+			"courseOfferNumber": 1,
+			"courseTopicId": 0,
+			"effdt": 1462075200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-X",
+			"title": "INDIVIDUAL READINGS IN AFRICAN AMERICAN STUDIES"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "490",
+			"classNumbers": [
+				"6581",
+				"3458",
+				"3576",
+				"7204"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": null,
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "091315",
+			"courseOfferNumber": 1,
+			"courseTopicId": 1,
+			"effdt": 1462075200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-X",
+			"title": "RDGS IN AFRO AM SECULAR MUSIC (INDIVIDUAL READINGS IN AFRICAN AMERICAN STUDIES)"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "490",
+			"classNumbers": [
+				"6582",
+				"3459",
+				"7205"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": null,
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "091315",
+			"courseOfferNumber": 1,
+			"courseTopicId": 2,
+			"effdt": 1462075200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-X",
+			"title": "RDGS IN AFRO AM FICTION (INDIVIDUAL READINGS IN AFRICAN AMERICAN STUDIES)"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "490",
+			"classNumbers": [
+				"6583",
+				"3460",
+				"7206"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": null,
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "091315",
+			"courseOfferNumber": 1,
+			"courseTopicId": 3,
+			"effdt": 1462075200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-X",
+			"title": "RDGS IN AFRO AM NON-FICTION (INDIVIDUAL READINGS IN AFRICAN AMERICAN STUDIES)"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "490",
+			"classNumbers": [
+				"6584",
+				"3461",
+				"7207"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": null,
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "091315",
+			"courseOfferNumber": 1,
+			"courseTopicId": 4,
+			"effdt": 1462075200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-X",
+			"title": "RDGS IN AFRO AM SOCIAL ISSUES (INDIVIDUAL READINGS IN AFRICAN AMERICAN STUDIES)"
+		},
+		{
+			"car": "UGRD",
+			"catalogNumber": "490",
+			"classNumbers": [
+				"6585",
+				"3462",
+				"7208"
+			],
+			"courseDetails": {
+				"attributes": [],
+				"description": null,
+				"typicallyOffered": "Spring, Summer, Fall"
+			},
+			"courseId": "091315",
+			"courseOfferNumber": 1,
+			"courseTopicId": 5,
+			"effdt": 1462075200000,
+			"inst": "IUBLA",
+			"maxCredits": 3,
+			"minCredits": 1,
+			"scheduled": "",
+			"scheduledTerms": [],
+			"subject": "AAAD-X",
+			"title": "RDGS IN AFRO AM THTR & DRAMA (INDIVIDUAL READINGS IN AFRICAN AMERICAN STUDIES)"
+		}
+	],
+	"filters": {
+		"attributes": [
+			{
+				"active": false,
+				"count": 1,
+				"label": "ASHTON, TETER AND WRIGHT PROGRAMS",
+				"value": "ASHTON, TETER AND WRIGHT PROGRAMS"
+			},
+			{
+				"active": false,
+				"count": 370,
+				"label": "Class uses IU eTexts",
+				"value": "Class uses IU eTexts"
+			},
+			{
+				"active": false,
+				"count": 378,
+				"label": "COLL (CASE) A&H Breadth of Inquiry credit",
+				"value": "COLL (CASE) A&H Breadth of Inquiry credit"
+			},
+			{
+				"active": false,
+				"count": 51,
+				"label": "COLL (CASE) Culture Studies: Diversity in U.S.",
+				"value": "COLL (CASE) Culture Studies: Diversity in U.S."
+			},
+			{
+				"active": false,
+				"count": 170,
+				"label": "COLL (CASE) Culture Studies: Global Civ & Culture",
+				"value": "COLL (CASE) Culture Studies: Global Civ & Culture"
+			},
+			{
+				"active": false,
+				"count": 5,
+				"label": "COLL (CASE) English Composition credit",
+				"value": "COLL (CASE) English Composition credit"
+			},
+			{
+				"active": false,
+				"count": 11,
+				"label": "COLL (CASE) Mathematical Modeling credit",
+				"value": "COLL (CASE) Mathematical Modeling credit"
+			},
+			{
+				"active": false,
+				"count": 180,
+				"label": "COLL (CASE) N&M Breadth of Inquiry credit",
+				"value": "COLL (CASE) N&M Breadth of Inquiry credit"
+			},
+			{
+				"active": false,
+				"count": 354,
+				"label": "COLL (CASE) S&H Breadth of Inquiry credit",
+				"value": "COLL (CASE) S&H Breadth of Inquiry credit"
+			},
+			{
+				"active": false,
+				"count": 22,
+				"label": "COLL (CASE) Sustainability Literacy credit",
+				"value": "COLL (CASE) Sustainability Literacy credit"
+			},
+			{
+				"active": false,
+				"count": 83,
+				"label": "COLL INTENSIVE WRITING SECTIONS",
+				"value": "COLL INTENSIVE WRITING SECTIONS"
+			},
+			{
+				"active": false,
+				"count": 12,
+				"label": "COLLINS-LLC PROGRAM",
+				"value": "COLLINS-LLC PROGRAM"
+			},
+			{
+				"active": false,
+				"count": 28,
+				"label": "Executive Degree Program Bloomington",
+				"value": "Executive Degree Program Bloomington"
+			},
+			{
+				"active": false,
+				"count": 3,
+				"label": "FOREST, READ AND WILLKIE PROGRAMS",
+				"value": "FOREST, READ AND WILLKIE PROGRAMS"
+			},
+			{
+				"active": false,
+				"count": 189,
+				"label": "IUB GenEd A&H credit",
+				"value": "IUB GenEd A&H credit"
+			},
+			{
+				"active": false,
+				"count": 5,
+				"label": "IUB GenEd English Composition credit",
+				"value": "IUB GenEd English Composition credit"
+			},
+			{
+				"active": false,
+				"count": 12,
+				"label": "IUB GenEd Mathematical Modeling credit",
+				"value": "IUB GenEd Mathematical Modeling credit"
+			},
+			{
+				"active": false,
+				"count": 34,
+				"label": "IUB GenEd N&M credit",
+				"value": "IUB GenEd N&M credit"
+			},
+			{
+				"active": false,
+				"count": 69,
+				"label": "IUB GenEd N&M credit - Natural Science",
+				"value": "IUB GenEd N&M credit - Natural Science"
+			},
+			{
+				"active": false,
+				"count": 163,
+				"label": "IUB GenEd S&H credit",
+				"value": "IUB GenEd S&H credit"
+			},
+			{
+				"active": false,
+				"count": 78,
+				"label": "IUB GenEd World Culture credit",
+				"value": "IUB GenEd World Culture credit"
+			},
+			{
+				"active": false,
+				"count": 116,
+				"label": "IUB GenEd World Language class",
+				"value": "IUB GenEd World Language class"
+			},
+			{
+				"active": false,
+				"count": 32,
+				"label": "Kelley Direct Program Bloomington",
+				"value": "Kelley Direct Program Bloomington"
+			},
+			{
+				"active": false,
+				"count": 33,
+				"label": "Transfer Indiana Initiative",
+				"value": "Transfer Indiana Initiative"
+			}
+		],
+		"level": [
+			{
+				"active": false,
+				"count": 98,
+				"label": "<100",
+				"value": "<100"
+			},
+			{
+				"active": false,
+				"count": 553,
+				"label": "100",
+				"value": "100"
+			},
+			{
+				"active": false,
+				"count": 641,
+				"label": "200",
+				"value": "200"
+			},
+			{
+				"active": false,
+				"count": 1225,
+				"label": "300",
+				"value": "300"
+			},
+			{
+				"active": false,
+				"count": 1129,
+				"label": "400",
+				"value": "400"
+			},
+			{
+				"active": false,
+				"count": 1314,
+				"label": "500",
+				"value": "500"
+			},
+			{
+				"active": false,
+				"count": 1394,
+				"label": "≥600",
+				"value": "≥600"
+			}
+		],
+		"locations": [
+			{
+				"active": false,
+				"count": 5593,
+				"label": "Bloomington Campus",
+				"value": "Bloomington Campus"
+			},
+			{
+				"active": false,
+				"count": 1110,
+				"label": "Off Campus",
+				"value": "Off Campus"
+			},
+			{
+				"active": false,
+				"count": 15,
+				"label": "Online class taught by IU Bloomington",
+				"value": "Online class taught by IU Bloomington"
+			},
+			{
+				"active": false,
+				"count": 1,
+				"label": "Online class taught by IU Columbus",
+				"value": "Online class taught by IU Columbus"
+			},
+			{
+				"active": false,
+				"count": 12,
+				"label": "Online class taught by IU East",
+				"value": "Online class taught by IU East"
+			},
+			{
+				"active": false,
+				"count": 6,
+				"label": "Online class taught by IU Indianapolis",
+				"value": "Online class taught by IU Indianapolis"
+			},
+			{
+				"active": false,
+				"count": 6,
+				"label": "Online class taught by IU Kokomo",
+				"value": "Online class taught by IU Kokomo"
+			},
+			{
+				"active": false,
+				"count": 9,
+				"label": "Online class taught by IU Northwest",
+				"value": "Online class taught by IU Northwest"
+			},
+			{
+				"active": false,
+				"count": 5,
+				"label": "Online class taught by IU South Bend",
+				"value": "Online class taught by IU South Bend"
+			},
+			{
+				"active": false,
+				"count": 7,
+				"label": "Online class taught by IU Southeast",
+				"value": "Online class taught by IU Southeast"
+			}
+		],
+		"meetingTimes": null,
+		"mois": [
+			{
+				"active": false,
+				"count": 495,
+				"label": "100% Online All",
+				"value": "100% Online All"
+			},
+			{
+				"active": false,
+				"count": 11,
+				"label": "76-99% Online Interactive",
+				"value": "76-99% Online Interactive"
+			},
+			{
+				"active": false,
+				"count": 158,
+				"label": "Distance Synchronous Video",
+				"value": "Distance Synchronous Video"
+			},
+			{
+				"active": false,
+				"count": 146,
+				"label": "Hybrid-Distance Video & Online",
+				"value": "Hybrid-Distance Video & Online"
+			},
+			{
+				"active": false,
+				"count": 210,
+				"label": "Hybrid-On Campus & Online",
+				"value": "Hybrid-On Campus & Online"
+			},
+			{
+				"active": false,
+				"count": 4515,
+				"label": "In Person",
+				"value": "In Person"
+			},
+			{
+				"active": false,
+				"count": 996,
+				"label": "Independent/Directed Study",
+				"value": "Independent/Directed Study"
+			},
+			{
+				"active": false,
+				"count": 203,
+				"label": "Internship/Practica",
+				"value": "Internship/Practica"
+			}
+		],
+		"sessions": [
+			{
+				"active": false,
+				"count": 172,
+				"label": "Eight Week - First",
+				"value": "Eight Week - First"
+			},
+			{
+				"active": false,
+				"count": 255,
+				"label": "Eight Week - Second",
+				"value": "Eight Week - Second"
+			},
+			{
+				"active": false,
+				"count": 38,
+				"label": "Intersession",
+				"value": "Intersession"
+			},
+			{
+				"active": false,
+				"count": 7,
+				"label": "Kelley Academy Week 1",
+				"value": "Kelley Academy Week 1"
+			},
+			{
+				"active": false,
+				"count": 27,
+				"label": "Kelley First Seven Week",
+				"value": "Kelley First Seven Week"
+			},
+			{
+				"active": false,
+				"count": 30,
+				"label": "Kelley Second Seven Week",
+				"value": "Kelley Second Seven Week"
+			},
+			{
+				"active": false,
+				"count": 92,
+				"label": "Non Standard Session",
+				"value": "Non Standard Session"
+			},
+			{
+				"active": false,
+				"count": 5742,
+				"label": "Regular Academic Session",
+				"value": "Regular Academic Session"
+			},
+			{
+				"active": false,
+				"count": 43,
+				"label": "Seven Week - First",
+				"value": "Seven Week - First"
+			},
+			{
+				"active": false,
+				"count": 42,
+				"label": "Seven Week - Second",
+				"value": "Seven Week - Second"
+			},
+			{
+				"active": false,
+				"count": 2,
+				"label": "Six Week - First",
+				"value": "Six Week - First"
+			},
+			{
+				"active": false,
+				"count": 2,
+				"label": "Six Week - Second",
+				"value": "Six Week - Second"
+			},
+			{
+				"active": false,
+				"count": 98,
+				"label": "Thirteen Week",
+				"value": "Thirteen Week"
+			},
+			{
+				"active": false,
+				"count": 13,
+				"label": "Three Week",
+				"value": "Three Week"
+			}
+		],
+		"subject": [
+			{
+				"active": false,
+				"count": 5,
+				"label": "Aerospace Studies",
+				"value": "Aerospace Studies"
+			},
+			{
+				"active": false,
+				"count": 55,
+				"label": "African Am & Afri Diaspora Std",
+				"value": "African Am & Afri Diaspora Std"
+			},
+			{
+				"active": false,
+				"count": 49,
+				"label": "African Studies",
+				"value": "African Studies"
+			},
+			{
+				"active": false,
+				"count": 23,
+				"label": "American Studies",
+				"value": "American Studies"
+			},
+			{
+				"active": false,
+				"count": 10,
+				"label": "Anatomy",
+				"value": "Anatomy"
+			},
+			{
+				"active": false,
+				"count": 11,
+				"label": "Animal Behavior",
+				"value": "Animal Behavior"
+			},
+			{
+				"active": false,
+				"count": 57,
+				"label": "Anthropology",
+				"value": "Anthropology"
+			},
+			{
+				"active": false,
+				"count": 44,
+				"label": "Art History",
+				"value": "Art History"
+			},
+			{
+				"active": false,
+				"count": 13,
+				"label": "Arts Administration",
+				"value": "Arts Administration"
+			},
+			{
+				"active": false,
+				"count": 9,
+				"label": "Arts&Sciences Career Services",
+				"value": "Arts&Sciences Career Services"
+			},
+			{
+				"active": false,
+				"count": 2,
+				"label": "Asian American Studies",
+				"value": "Asian American Studies"
+			},
+			{
+				"active": false,
+				"count": 15,
+				"label": "Astronomy",
+				"value": "Astronomy"
+			},
+			{
+				"active": false,
+				"count": 13,
+				"label": "Biochemistry",
+				"value": "Biochemistry"
+			},
+			{
+				"active": false,
+				"count": 74,
+				"label": "Biology",
+				"value": "Biology"
+			},
+			{
+				"active": false,
+				"count": 19,
+				"label": "Biotechnology",
+				"value": "Biotechnology"
+			},
+			{
+				"active": false,
+				"count": 307,
+				"label": "Business",
+				"value": "Business"
+			},
+			{
+				"active": false,
+				"count": 13,
+				"label": "Business Global Executive Mgt",
+				"value": "Business Global Executive Mgt"
+			},
+			{
+				"active": false,
+				"count": 51,
+				"label": "Business Kelley Direct",
+				"value": "Business Kelley Direct"
+			},
+			{
+				"active": false,
+				"count": 5,
+				"label": "Center For Neural Sciences",
+				"value": "Center For Neural Sciences"
+			},
+			{
+				"active": false,
+				"count": 148,
+				"label": "Central Eurasian Studies",
+				"value": "Central Eurasian Studies"
+			},
+			{
+				"active": false,
+				"count": 91,
+				"label": "Chemistry",
+				"value": "Chemistry"
+			},
+			{
+				"active": false,
+				"count": 39,
+				"label": "Classical Studies",
+				"value": "Classical Studies"
+			},
+			{
+				"active": false,
+				"count": 27,
+				"label": "Cognitive Science",
+				"value": "Cognitive Science"
+			},
+			{
+				"active": false,
+				"count": 42,
+				"label": "College of Arts & Sciences",
+				"value": "College of Arts & Sciences"
+			},
+			{
+				"active": false,
+				"count": 12,
+				"label": "Collins Living-Learning Center",
+				"value": "Collins Living-Learning Center"
+			},
+			{
+				"active": false,
+				"count": 2,
+				"label": "Communication & Culture",
+				"value": "Communication & Culture"
+			},
+			{
+				"active": false,
+				"count": 40,
+				"label": "Comparative Literature",
+				"value": "Comparative Literature"
+			},
+			{
+				"active": false,
+				"count": 108,
+				"label": "Computer Science",
+				"value": "Computer Science"
+			},
+			{
+				"active": false,
+				"count": 43,
+				"label": "Criminology/Criminal Justice",
+				"value": "Criminology/Criminal Justice"
+			},
+			{
+				"active": false,
+				"count": 3,
+				"label": "Cultural Studies",
+				"value": "Cultural Studies"
+			},
+			{
+				"active": false,
+				"count": 13,
+				"label": "Data Science",
+				"value": "Data Science"
+			},
+			{
+				"active": false,
+				"count": 40,
+				"label": "Earth and Atmospheric Sciences",
+				"value": "Earth and Atmospheric Sciences"
+			},
+			{
+				"active": false,
+				"count": 98,
+				"label": "East Asian Lang & Culture",
+				"value": "East Asian Lang & Culture"
+			},
+			{
+				"active": false,
+				"count": 63,
+				"label": "Economics",
+				"value": "Economics"
+			},
+			{
+				"active": false,
+				"count": 437,
+				"label": "Education",
+				"value": "Education"
+			},
+			{
+				"active": false,
+				"count": 105,
+				"label": "English",
+				"value": "English"
+			},
+			{
+				"active": false,
+				"count": 23,
+				"label": "European Studies",
+				"value": "European Studies"
+			},
+			{
+				"active": false,
+				"count": 58,
+				"label": "Folklore and Ethnomusicology",
+				"value": "Folklore and Ethnomusicology"
+			},
+			{
+				"active": false,
+				"count": 2,
+				"label": "French",
+				"value": "French"
+			},
+			{
+				"active": false,
+				"count": 53,
+				"label": "French And Italian",
+				"value": "French And Italian"
+			},
+			{
+				"active": false,
+				"count": 33,
+				"label": "Gender Studies",
+				"value": "Gender Studies"
+			},
+			{
+				"active": false,
+				"count": 55,
+				"label": "Geography",
+				"value": "Geography"
+			},
+			{
+				"active": false,
+				"count": 3,
+				"label": "Geology",
+				"value": "Geology"
+			},
+			{
+				"active": false,
+				"count": 63,
+				"label": "Germanic Languages",
+				"value": "Germanic Languages"
+			},
+			{
+				"active": false,
+				"count": 16,
+				"label": "Global & International Studies",
+				"value": "Global & International Studies"
+			},
+			{
+				"active": false,
+				"count": 33,
+				"label": "Graduate",
+				"value": "Graduate"
+			},
+			{
+				"active": false,
+				"count": 25,
+				"label": "Hist & Phil Of Sci & Medicine",
+				"value": "Hist & Phil Of Sci & Medicine"
+			},
+			{
+				"active": false,
+				"count": 73,
+				"label": "History",
+				"value": "History"
+			},
+			{
+				"active": false,
+				"count": 36,
+				"label": "Honors",
+				"value": "Honors"
+			},
+			{
+				"active": false,
+				"count": 14,
+				"label": "Human Biology",
+				"value": "Human Biology"
+			},
+			{
+				"active": false,
+				"count": 5,
+				"label": "Hutton Honors College",
+				"value": "Hutton Honors College"
+			},
+			{
+				"active": false,
+				"count": 21,
+				"label": "India Studies",
+				"value": "India Studies"
+			},
+			{
+				"active": false,
+				"count": 4,
+				"label": "Individualized Major Program",
+				"value": "Individualized Major Program"
+			},
+			{
+				"active": false,
+				"count": 1,
+				"label": "Info, Computing, & Engineering",
+				"value": "Info, Computing, & Engineering"
+			},
+			{
+				"active": false,
+				"count": 126,
+				"label": "Informatics",
+				"value": "Informatics"
+			},
+			{
+				"active": false,
+				"count": 43,
+				"label": "Information & Library Science",
+				"value": "Information & Library Science"
+			},
+			{
+				"active": false,
+				"count": 63,
+				"label": "Intelligent Systems Engineerng",
+				"value": "Intelligent Systems Engineerng"
+			},
+			{
+				"active": false,
+				"count": 75,
+				"label": "International Studies",
+				"value": "International Studies"
+			},
+			{
+				"active": false,
+				"count": 42,
+				"label": "Jewish Studies",
+				"value": "Jewish Studies"
+			},
+			{
+				"active": false,
+				"count": 45,
+				"label": "Labor Studies",
+				"value": "Labor Studies"
+			},
+			{
+				"active": false,
+				"count": 27,
+				"label": "Latin American Studies",
+				"value": "Latin American Studies"
+			},
+			{
+				"active": false,
+				"count": 12,
+				"label": "Latino Studies",
+				"value": "Latino Studies"
+			},
+			{
+				"active": false,
+				"count": 109,
+				"label": "Law",
+				"value": "Law"
+			},
+			{
+				"active": false,
+				"count": 6,
+				"label": "Liberal Arts And Mgmt Program",
+				"value": "Liberal Arts And Mgmt Program"
+			},
+			{
+				"active": false,
+				"count": 47,
+				"label": "Linguistics",
+				"value": "Linguistics"
+			},
+			{
+				"active": false,
+				"count": 1,
+				"label": "Luddy Living Learning Center",
+				"value": "Luddy Living Learning Center"
+			},
+			{
+				"active": false,
+				"count": 71,
+				"label": "Mathematics",
+				"value": "Mathematics"
+			},
+			{
+				"active": false,
+				"count": 253,
+				"label": "Media School",
+				"value": "Media School"
+			},
+			{
+				"active": false,
+				"count": 25,
+				"label": "Medical Sciences",
+				"value": "Medical Sciences"
+			},
+			{
+				"active": false,
+				"count": 3,
+				"label": "Medieval Studies",
+				"value": "Medieval Studies"
+			},
+			{
+				"active": false,
+				"count": 3,
+				"label": "Mgmt and Human Organization",
+				"value": "Mgmt and Human Organization"
+			},
+			{
+				"active": false,
+				"count": 63,
+				"label": "Middle Eastern Lang & Cultures",
+				"value": "Middle Eastern Lang & Cultures"
+			},
+			{
+				"active": false,
+				"count": 7,
+				"label": "Military",
+				"value": "Military"
+			},
+			{
+				"active": false,
+				"count": 2,
+				"label": "Molecular Life Sciences",
+				"value": "Molecular Life Sciences"
+			},
+			{
+				"active": false,
+				"count": 776,
+				"label": "Music",
+				"value": "Music"
+			},
+			{
+				"active": false,
+				"count": 5,
+				"label": "Native Am and Indigenous St",
+				"value": "Native Am and Indigenous St"
+			},
+			{
+				"active": false,
+				"count": 1,
+				"label": "Near Eastern Lang & Cultures",
+				"value": "Near Eastern Lang & Cultures"
+			},
+			{
+				"active": false,
+				"count": 34,
+				"label": "Nursing",
+				"value": "Nursing"
+			},
+			{
+				"active": false,
+				"count": 30,
+				"label": "Optometry",
+				"value": "Optometry"
+			},
+			{
+				"active": false,
+				"count": 57,
+				"label": "Overseas Studies",
+				"value": "Overseas Studies"
+			},
+			{
+				"active": false,
+				"count": 44,
+				"label": "Philosophy",
+				"value": "Philosophy"
+			},
+			{
+				"active": false,
+				"count": 44,
+				"label": "Physics",
+				"value": "Physics"
+			},
+			{
+				"active": false,
+				"count": 4,
+				"label": "Physiology",
+				"value": "Physiology"
+			},
+			{
+				"active": false,
+				"count": 8,
+				"label": "Political & Civic Engagemt Prg",
+				"value": "Political & Civic Engagemt Prg"
+			},
+			{
+				"active": false,
+				"count": 60,
+				"label": "Political Science",
+				"value": "Political Science"
+			},
+			{
+				"active": false,
+				"count": 88,
+				"label": "Psychology",
+				"value": "Psychology"
+			},
+			{
+				"active": false,
+				"count": 17,
+				"label": "Pub & Env Aff-SPEA Connect",
+				"value": "Pub & Env Aff-SPEA Connect"
+			},
+			{
+				"active": false,
+				"count": 207,
+				"label": "Public And Envir Affairs",
+				"value": "Public And Envir Affairs"
+			},
+			{
+				"active": false,
+				"count": 435,
+				"label": "Public Health",
+				"value": "Public Health"
+			},
+			{
+				"active": false,
+				"count": 49,
+				"label": "Religious Studies",
+				"value": "Religious Studies"
+			},
+			{
+				"active": false,
+				"count": 1,
+				"label": "Renaissance Studies",
+				"value": "Renaissance Studies"
+			},
+			{
+				"active": false,
+				"count": 41,
+				"label": "Russian & East European Inst",
+				"value": "Russian & East European Inst"
+			},
+			{
+				"active": false,
+				"count": 225,
+				"label": "School of Art and Design",
+				"value": "School of Art and Design"
+			},
+			{
+				"active": false,
+				"count": 113,
+				"label": "Second Language Studies",
+				"value": "Second Language Studies"
+			},
+			{
+				"active": false,
+				"count": 76,
+				"label": "Slav&East Euro Lang & Cultures",
+				"value": "Slav&East Euro Lang & Cultures"
+			},
+			{
+				"active": false,
+				"count": 32,
+				"label": "Social Work",
+				"value": "Social Work"
+			},
+			{
+				"active": false,
+				"count": 46,
+				"label": "Sociology",
+				"value": "Sociology"
+			},
+			{
+				"active": false,
+				"count": 11,
+				"label": "Southeast Asian Studies",
+				"value": "Southeast Asian Studies"
+			},
+			{
+				"active": false,
+				"count": 2,
+				"label": "Spanish",
+				"value": "Spanish"
+			},
+			{
+				"active": false,
+				"count": 81,
+				"label": "Spanish & Portuguese",
+				"value": "Spanish & Portuguese"
+			},
+			{
+				"active": false,
+				"count": 61,
+				"label": "Speech, Language & Hearing Sci",
+				"value": "Speech, Language & Hearing Sci"
+			},
+			{
+				"active": false,
+				"count": 27,
+				"label": "Statistics",
+				"value": "Statistics"
+			},
+			{
+				"active": false,
+				"count": 112,
+				"label": "Theatre, Drama & Cntmp Dance",
+				"value": "Theatre, Drama & Cntmp Dance"
+			},
+			{
+				"active": false,
+				"count": 5,
+				"label": "Theoretical Inq in Humanities",
+				"value": "Theoretical Inq in Humanities"
+			},
+			{
+				"active": false,
+				"count": 1,
+				"label": "Victorian Studies",
+				"value": "Victorian Studies"
+			},
+			{
+				"active": false,
+				"count": 34,
+				"label": "Vision Science",
+				"value": "Vision Science"
+			}
+		],
+		"units": [
+			{
+				"active": false,
+				"count": 247,
+				"label": "0",
+				"value": "0"
+			},
+			{
+				"active": false,
+				"count": 1396,
+				"label": "1",
+				"value": "1"
+			},
+			{
+				"active": false,
+				"count": 1268,
+				"label": "2",
+				"value": "2"
+			},
+			{
+				"active": false,
+				"count": 4761,
+				"label": "3",
+				"value": "3"
+			},
+			{
+				"active": false,
+				"count": 939,
+				"label": "4",
+				"value": "4"
+			},
+			{
+				"active": false,
+				"count": 473,
+				"label": "5",
+				"value": "5"
+			},
+			{
+				"active": false,
+				"count": 575,
+				"label": "≥6",
+				"value": "≥6"
+			}
+		]
+	}
+}
